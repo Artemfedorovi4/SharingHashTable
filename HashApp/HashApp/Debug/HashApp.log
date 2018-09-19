@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: два или более файлов с именем MySocket.cpp выводят результаты в одно и то же расположение. Это может стать причиной неверного результата сборки.  Включенные файлы — ..\..\MySocket\MySocket\MySocket.cpp, MySocket.cpp.
+  stdafx.cpp
+  MySocket.cpp
+  HashApp.cpp
+  HashTableManager.cpp
+  MySocket.cpp
+  Создание кода...
+Debug\MySocket.obj : warning LNK4042: объект указан более одного раза; лишние не учитываются
+  HashApp.vcxproj -> C:\Users\Happy\source\repos\HashApp\Debug\HashApp.exe
